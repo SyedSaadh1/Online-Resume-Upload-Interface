@@ -49,21 +49,7 @@ The File Upload UI simplifies the process of uploading files for users. It allow
 4. Upon successful upload, a confirmation message will be displayed.
 5. In case of errors, appropriate error messages will be shown.
 
-## File Structure
 
-file-upload-ui/
-├── components/
-│ ├── AlertDialogDemo.js
-│ ├── Resumecard.js
-│ └── ...
-├── pages/
-│ ├── index.js
-│ ├── upload.js
-│ └── ...
-├── public/
-│ └── ...
-├── README.md
-└── package.json
 ## File Structure
 
 ````plaintext
