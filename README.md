@@ -64,6 +64,22 @@ file-upload-ui/
 │ └── ...
 ├── README.md
 └── package.json
+## File Structure
+
+````plaintext
+file-upload-ui/
+├── components/
+│   ├── AlertDialogDemo.js
+│   ├── Resumecard.js
+│   └── ...
+├── pages/
+│   ├── index.js
+│   ├── upload.js
+│   └── ...
+├── public/
+│   └── ...
+├── README.md
+└── package.json
 
 
 ## Dependencies
